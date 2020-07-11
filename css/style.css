@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7em;
+    background-color: #fff;
+}
+.navbar-brand{
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    text-decoration: none;
+    color: #151B54;
+    
+}
+.navbar-brand img {
+    display: block;
+    margin: auto;
+}
+.navbar-nav {
+    padding-top: 150px;
+    
+}
+.navbar {
+    min-height: 150px ;
+}
+hr {
+    width: 100px;
+    background-color: #D99D49;
+    margin-left: -50px;
+    border: 1px solid #D99D49;
+    justify-content: center;
+}
+.navbar-brand  hr { 
+  display: block;
+  margin: auto;
+}
+.navbar-brand  h6{
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    color: #151B54;
+  }
+  .navbar-toggler{
+      margin-top: 70px;
+  }
+  .navbar-brand li a {
+      text-decoration: none;
+      color: #151B54;
+  }
+.container-txt img{
+    position: absolute;
+    width: 710px;
+    left: 542px ;
+    top: 0px;
+}
+.card-img {
+    position: relative;
+    left: 450px;
+    width: 750px;
+    top: 0px;
+}
+.short-text {
+    width: 260px;
+    padding: 5px;
+    line-height: 15px;
+    color: #333;
+    font-size: 12px ;
+}
+.bitt {
+    position: relative;
+    right: 300px;
+    border: none;
+}
+.card-body {
+    text-align: center;
+}
+.card-line {
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
